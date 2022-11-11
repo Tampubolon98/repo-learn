@@ -1,0 +1,5 @@
+Resolusinya:
+- Membuat website menggunakan framework javascript
+- Bekerja di star-up
+- Membuat aplikasi mobile menggunakan react native
+- Menguasai 1 bahasa pemrograman yaitu javascript
